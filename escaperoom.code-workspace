@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "~/projects/ai-escape-room/env/bin/python3",
+		"jupyter.kernels.excludePythonEnvironments": [
+			"/bin/python3",
+			"/usr/bin/python3",
+			"~/.asdf-inst/shims/python",
+			"~/.asdf-inst/shims/python3",
+			"~/.asdf-inst/shims/python3.11"
+		]
+	}
+}
